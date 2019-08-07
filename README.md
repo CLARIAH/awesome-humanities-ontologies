@@ -4,7 +4,7 @@
 
 *What is an [awesome](https://github.com/sindresorhus/awesome) list?*
 
-This list collects useful ontologies, vocabularies, terminologies, and taxonomies for modelling and publishing datasets from Humanities domains as [Linked Data](http://linkeddatabook.com/editions/1.0/). If you wish to contribute, [send a PR](https://github.com/albertmeronyo/awesome-humanities-ontologies/pull/new/master) or get in touch with [Albert Meroño](mailto:albert.meronyo@gmail.com) or [Melodee Beals](m.h.beals@lboro.ac.uk).
+This list collects useful ontologies, vocabularies, terminologies, and taxonomies for modelling and publishing datasets from Humanities domains as [Linked Data](http://linkeddatabook.com/editions/1.0/). If you wish to contribute, [send a PR](https://github.com/albertmeronyo/awesome-humanities-ontologies/pull/new/master) or get in touch with [Albert Meroño](mailto:albert.meronyo@gmail.com) or [Melodee Beals](mailto:m.h.beals@lboro.ac.uk).
 
 ## Contents
 
