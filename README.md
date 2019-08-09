@@ -19,6 +19,7 @@ This list collects useful ontologies, vocabularies, terminologies, and taxonomie
 - [CIDOC Conceptual Reference Model (CRM)](http://www.cidoc-crm.org/) - provides definitions and a formal structure for describing the implicit and explicit concepts and relationships used in cultural heritage documentation
 - [Simple Event Model (SEM)](https://semanticweb.cs.vu.nl/2009/11/sem/) - an ontology for modelling events
 - [FOAF vocabulary](http://xmlns.com/foaf/spec/) - linking people and information
+- [schema.org](https://schema.org/) - schemas for structured data on the Internet, on web pages, in email messages, and beyond
 - [PROV ontology](https://www.w3.org/TR/prov-o/) - set of classes, properties, and restrictions that can be used to represent and interchange provenance information
 
 ## Periodicals
