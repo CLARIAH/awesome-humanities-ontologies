@@ -17,10 +17,12 @@ This list collects useful ontologies, vocabularies, terminologies, and taxonomie
 
 - [Functional Requirements for Bibliographic Record (FRBR)](http://www.sparontologies.net/ontologies/frbr) - for describing documents and their evolution
 - [CIDOC Conceptual Reference Model (CRM)](http://www.cidoc-crm.org/) - provides definitions and a formal structure for describing the implicit and explicit concepts and relationships used in cultural heritage documentation
+- [CRMinf Argumentation Model](http://www.cidoc-crm.org/crminf/ModelVersion/version-0.7) - an Extension of CIDOC-CRM to support argumentation
 - [Simple Event Model (SEM)](https://semanticweb.cs.vu.nl/2009/11/sem/) - an ontology for modelling events
 - [FOAF vocabulary](http://xmlns.com/foaf/spec/) - linking people and information
 - [schema.org](https://schema.org/) - schemas for structured data on the Internet, on web pages, in email messages, and beyond
 - [PROV ontology](https://www.w3.org/TR/prov-o/) - set of classes, properties, and restrictions that can be used to represent and interchange provenance information
+- [NIE-INE ontologies](https://github.com/nie-ine/Ontologies/) - infrastructure developed to ensure long-term storage of data of scientific edition projects in the Humanities at the Swiss Universities of Basel, Bern, Zürich, and Geneva
 
 ## Periodicals
 *Newspapers, magazines, etc.*
@@ -34,6 +36,8 @@ This list collects useful ontologies, vocabularies, terminologies, and taxonomie
 - [Music theory ontology (MTO)](https://dl-acm-org.vu-nl.idm.oclc.org/citation.cfm?id=3243913)
 - [DOing REusable MUSical data (DOREMUS) datamodel](https://drive.google.com/file/d/0B_nxZpGQv9GKSlhhN2tEUGxDbVU/view) - Events, works, expressions around classic music data
 - [MIDI ontology](https://www.albertmeronyo.org/wp-content/uploads/2017/07/ISWC2017_paper_343.pdf) - for publishing MIDI pieces, tracks, events, and their attributes
+- [MusicOWL](http://linkeddata.uni-muenster.de/ontology/musicscore/) - ontology for encoding music scores of western music
+
 
 ## License
 
