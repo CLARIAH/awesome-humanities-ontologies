@@ -12,6 +12,7 @@ This list collects useful ontologies, vocabularies, terminologies, and taxonomie
 - [Cultural heritage](#cultural-heritage)
 - [Periodicals](#periodicals)
 - [Musicology](#musicology)
+- [Language](#language)
 
 ## General
 *Persons, places, events, time, documents*
