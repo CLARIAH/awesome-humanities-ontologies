@@ -12,7 +12,7 @@ There's no need to install a git client and you can do all this using the GitHub
 
 ## Headings
 
-Edit [README.md] to add your contributions to the lits of ontologies. When doing so:
+Edit [README.md](README.md) to add your contributions to the lits of ontologies. When doing so:
 
 - Please follow the logic of the headings
 - Try to avoid using the `General` category
@@ -24,4 +24,4 @@ To list an ontology, first add a link to it, then a hyphen (-), and then a minim
 
 ## List yourself as contributor
 
-When you are done, please edit [CONTRIBUTORS.md] and append your name and affiliation at your own discretion
+When you are done, please edit [CONTRIBUTORS.md](CONTRIBUTORS.md) and append your name and affiliation at your own discretion
