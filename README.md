@@ -37,6 +37,7 @@ This list collects useful ontologies, vocabularies, terminologies, and taxonomie
 - [CRMArcheo Excavation Model](https://www.ics.forth.gr/isl/index_main.php?l=e&c=711) - an ontology and RDF Schema to encode metadata about the archaeological excavation process (CIDOC-CRM extensnion)
 - [Europeana Data Model (EDM)](https://pro.europeana.eu/resources/standardization-tools/edm-documentation) - proposal for structuring the data that Europeana will be ingesting, managing and publishing on museums, digital archives and digital libraries
 - [Getty AAT Art and Architecture Thesaurus](https://www.getty.edu/research/tools/vocabularies/aat/) - an evolving vocabulary, growing and changing on art and architecture
+- [JUSO](http://rdfs.co/juso/latest/html#term-doc/) - Juso Ontology is a Web vocabulary for describing geographical addresses and features
 - [PNV](https://www.lodewijkpetram.nl/vocab/pnv/doc/) - The Person Name Vocabulary (PNV) is an rdf vocabulary and data model for persons' names
 - [ROAR](https://leonvanwissen.nl/vocab/roar/docs/) - Ontology to describe person, location etc. observations in archival resources
 
@@ -48,11 +49,11 @@ This list collects useful ontologies, vocabularies, terminologies, and taxonomie
 ## Musicology
 *Scores, music metadata, symbolic notations*
 
-- [Music ontology (MO)](http://musicontology.com/specification/) - provides main concepts and properties for describing music (i.e. artists, albums and tracks) on the Semantic Web
-- [Music theory ontology (MTO)](https://dl-acm-org.vu-nl.idm.oclc.org/citation.cfm?id=3243913)
 - [DOing REusable MUSical data (DOREMUS) datamodel](https://drive.google.com/file/d/0B_nxZpGQv9GKSlhhN2tEUGxDbVU/view) - Events, works, expressions around classic music data
 - [MIDI ontology](https://www.albertmeronyo.org/wp-content/uploads/2017/07/ISWC2017_paper_343.pdf) - for publishing MIDI pieces, tracks, events, and their attributes
 - [MusicOWL](http://linkeddata.uni-muenster.de/ontology/musicscore/) - ontology for encoding music scores of western music
+- [Music ontology (MO)](http://musicontology.com/specification/) - provides main concepts and properties for describing music (i.e. artists, albums and tracks) on the Semantic Web
+- [Music theory ontology (MTO)](https://dl-acm-org.vu-nl.idm.oclc.org/citation.cfm?id=3243913)
 
 ## Language
 *Lexicology, named entity recognition, etc.*
