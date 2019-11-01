@@ -40,6 +40,7 @@ This list collects useful ontologies, vocabularies, terminologies, and taxonomie
 - [JUSO](http://rdfs.co/juso/latest/html#term-doc/) - Juso Ontology is a Web vocabulary for describing geographical addresses and features
 - [PNV](https://www.lodewijkpetram.nl/vocab/pnv/doc/) - The Person Name Vocabulary (PNV) is an rdf vocabulary and data model for persons' names
 - [ROAR](https://leonvanwissen.nl/vocab/roar/docs/) - Ontology to describe person, location etc. observations in archival resources
+- [ICONCLASS](http://iconclass.org/help/lod) - a multilingual classification system for cultural content, the de facto global standard for subject classification
 
 ## Periodicals
 *Newspapers, magazines, etc.*
