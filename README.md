@@ -24,14 +24,15 @@ This list collects useful ontologies, vocabularies, terminologies, and taxonomie
 - [Geonames](https://www.geonames.org/) - covers all countries and contains over eleven million placenames that are available for download free of charge
 - [PROV ontology](https://www.w3.org/TR/prov-o/) - set of classes, properties, and restrictions that can be used to represent and interchange provenance information
 - [NIE-INE ontologies](https://github.com/nie-ine/Ontologies/) - infrastructure developed to ensure long-term storage of data of scientific edition projects in the Humanities at the Swiss Universities of Basel, Bern, Zürich, and Geneva
-- [Perio.do](https://perio.do/en/) - a gazetteer of period definitions for linking and visualizing data
+- [LIO](https://lov.linkeddata.es/dataset/lov/vocabs/lio) - A Lightweight Ontology for Describing Images
 - [OWL Time](https://www.w3.org/TR/owl-time/) - Time ontology in OWL
+- [Perio.do](https://perio.do/en/) - a gazetteer of period definitions for linking and visualizing data
 - [Simple Event Model (SEM)](https://semanticweb.cs.vu.nl/2009/11/sem/) - an ontology for modelling events
 - [Simple Knowledge Organization System (SKOS)](https://www.w3.org/2004/02/skos/) - standards to support the use of knowledge organization systems (KOS) such as thesauri, classification schemes, subject heading lists and taxonomies within the framework of the Semantic Web
 - [schema.org](https://schema.org/) - schemas for structured data on the Internet, on web pages, in email messages, and beyond
 - [VIAF](https://viaf.org/) - combines multiple name authority files into a single OCLC-hosted name authority service
 
-## Cultural Heritage
+## Cultural Heritage / History
 *Cultural heritage objects, museums, archaeology, etc.*
 
 - [CRMArcheo Excavation Model](https://www.ics.forth.gr/isl/index_main.php?l=e&c=711) - an ontology and RDF Schema to encode metadata about the archaeological excavation process (CIDOC-CRM extensnion)
