@@ -35,6 +35,7 @@ This list collects useful ontologies, vocabularies, terminologies, and taxonomie
 ## Cultural Heritage / History
 *Cultural heritage objects, museums, archaeology, etc.*
 
+- [Linked Art Data Model](https://linked.art/model/) - The Linked Art Data Model is a (CIDOC-CRM) application profile that can be used to describe cultural heritage resources, with a focus on artworks and museum-oriented activities. It defines common patterns and terms to ensure that the resulting data can be easily used and is based on real-world data and use cases.
 - [CRMArcheo Excavation Model](https://www.ics.forth.gr/isl/index_main.php?l=e&c=711) - an ontology and RDF Schema to encode metadata about the archaeological excavation process (CIDOC-CRM extensnion)
 - [Europeana Data Model (EDM)](https://pro.europeana.eu/resources/standardization-tools/edm-documentation) - proposal for structuring the data that Europeana will be ingesting, managing and publishing on museums, digital archives and digital libraries
 - [Getty AAT Art and Architecture Thesaurus](https://www.getty.edu/research/tools/vocabularies/aat/) - an evolving vocabulary, growing and changing on art and architecture
