@@ -3,3 +3,4 @@
 - Stefan Münnich, University of Basel, SW
 - Carlo Meghini, Consiglio Nazionale delle Ricerche, IT,
 - Richard Zijdeman, International Institute of Social History, NL, University of Stirling, UK
+- Jacco van Ossenbruggen, CWI & VU Amsterdam
