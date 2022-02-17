@@ -13,6 +13,7 @@ This list collects useful ontologies, vocabularies, terminologies, and taxonomie
 - [Periodicals](#periodicals)
 - [Musicology](#musicology)
 - [Language](#language)
+- [Fiction studies](#fiction-studies)
 
 ## General
 *Persons, places, events, time, documents*
@@ -65,6 +66,8 @@ triple stores
 - [Lemon](http://lemon-model.net/) - Lemon is a proposed model for modeling lexicon and machine-readable dictionaries and linked to the Semantic Web and the Linked Data cloud
 - [Lexvo](http://www.lexvo.org/) - brings information about languages, words, characters, and other human language-related entities to the Linked Data Web and Semantic Web
 
+## Fiction Studies
+- [Literary Theme Ontology (LTO)](https://github.com/theme-ontology/theming) - a taxonomy of defined literary themes for thematically annotating works of fiction
 
 ## License
 
