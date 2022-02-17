@@ -67,6 +67,7 @@ triple stores
 - [Lexvo](http://www.lexvo.org/) - brings information about languages, words, characters, and other human language-related entities to the Linked Data Web and Semantic Web
 
 ## Fiction Studies
+*Film, literature, etc.*
 - [Literary Theme Ontology (LTO)](https://github.com/theme-ontology/theming) - a taxonomy of defined literary themes for thematically annotating works of fiction
 
 ## License
