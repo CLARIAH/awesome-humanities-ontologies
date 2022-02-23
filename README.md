@@ -68,7 +68,9 @@ triple stores
 
 ## Fiction Studies
 *Film, literature, etc.*
+- [Drammar](https://www.cirma.unito.it/drammar/drammarlode/) - a comprehensive ontology of drama
 - [Literary Theme Ontology (LTO)](https://github.com/theme-ontology/theming) - a taxonomy of defined literary themes for thematically annotating works of fiction
+- [Taxonomy of Themes and Motifs (TTM2)](https://github.com/anasfkhan81/MemorataPoetis) - a taxonomy of approximately 1,250 Latin labeled themes/motifs, categorized into six different areas: Animalia [Animals], Arbores et virentia [Trees and Plants], Homines [Men], Dei et heroes [Gods and Heroes], Loca [Places], and finally Res [Things]
 
 ## License
 
