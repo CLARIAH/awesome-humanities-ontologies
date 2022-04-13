@@ -2,7 +2,7 @@ Thank you very much for your interest in contributing to this awesome list. This
 
 ## Pull requests
 
-To submit a changed version of the lits with your own additions, we suggest you:
+To submit a changed version of the list with your own additions, we suggest you:
 
 - Fork this repository in your own workspace
 - Commit/push your changes in that fork
@@ -12,7 +12,7 @@ There's no need to install a git client and you can do all this using the GitHub
 
 ## Headings
 
-Edit [README.md](README.md) to add your contributions to the lits of ontologies. When doing so:
+Edit [README.md](README.md) to add your contributions to the list of ontologies. When doing so:
 
 - Please follow the logic of the headings
 - Try to avoid using the `General` category
