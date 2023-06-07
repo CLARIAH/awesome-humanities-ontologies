@@ -4,7 +4,7 @@
 
 *What is an [awesome](https://github.com/sindresorhus/awesome) list?*
 
-This list collects useful ontologies, vocabularies, terminologies, and taxonomies for modelling and publishing datasets from Humanities domains as [Linked Data](http://linkeddatabook.com/editions/1.0/). If you wish to contribute, [send a PR](https://github.com/albertmeronyo/awesome-humanities-ontologies/pull/new/master) or get in touch with [Albert Meroño](mailto:albert.meronyo@gmail.com) or [Melodee Beals](mailto:m.h.beals@lboro.ac.uk).
+This list collects useful ontologies, vocabularies, terminologies, and taxonomies for modelling and publishing datasets from Humanities domains as [Linked Data](http://linkeddatabook.com/editions/1.0/). If you wish to contribute, [send a PR](https://github.com/albertmeronyo/awesome-humanities-ontologies/pull/new/master) or get in touch with [IISG Data & Augmentation](mailto:data@iisg.nl) or [Albert Meroño](mailto:albert.meronyo@gmail.com) or [Melodee Beals](mailto:m.h.beals@lboro.ac.uk).
 
 ## Contents
 
@@ -20,12 +20,14 @@ This list collects useful ontologies, vocabularies, terminologies, and taxonomie
 
 - [CIDOC Conceptual Reference Model (CRM)](http://www.cidoc-crm.org/) - provides definitions and a formal structure for describing the implicit and explicit concepts and relationships used in cultural heritage documentation
 - [CRMinf Argumentation Model](http://www.cidoc-crm.org/crminf/ModelVersion/version-0.7) - an Extension of CIDOC-CRM to support argumentation
+- [ELLST](http://https://thesauri.cessda.eu/elsst-3/en/) - The European Language Social Science Thesaurus (ELSST) is a broad-based, multilingual thesaurus for the social sciences. The thesaurus consists of over 3,000 concepts and covers the core social science disciplines: politics, sociology, economics, education, law, crime, demography, health, employment, information and communication technology and, increasingly, environmental science.
 - [FOAF vocabulary](http://xmlns.com/foaf/spec/) - linking people and information
 - [Functional Requirements for Bibliographic Record (FRBR)](http://www.sparontologies.net/ontologies/frbr) - for describing documents and their evolution
 - [Geonames](https://www.geonames.org/) - covers all countries and contains over eleven million placenames that are available for download free of charge
 - [GeoSPARQL](http://www.opengis.net/ont/geosparql#) - the richest and most common spatial ontologies, plus an optional SPARQL extension (hence the name) that supports spatial reasoning over geodata that are annotated with its ontology. Supported by various triples stores, such as TriplyDB (Druid)
 triple stores
-- [INTRO](https://github.com/BOberreither/INTRO) - INTRO – an Intertextual Relationships Ontology for literary studies
+- [INTRO](https://github.com/BOberreither/INTRO) - INTRO is an Intertextual Relationships Ontology for literary studies
+- [IDS](https://doi.org/10.51964/hlcs9290) - The Intermediate Data Structure (IDS) is a standard data format that has been adopted by several large longitudinal databases on historical populations.
 - [PROV ontology](https://www.w3.org/TR/prov-o/) - set of classes, properties, and restrictions that can be used to represent and interchange provenance information
 - [NIE-INE ontologies](https://github.com/nie-ine/Ontologies/) - infrastructure developed to ensure long-term storage of data of scientific edition projects in the Humanities at the Swiss Universities of Basel, Bern, Zürich, and Geneva
 - [LIO](https://lov.linkeddata.es/dataset/lov/vocabs/lio) - A Lightweight Ontology for Describing Images
