@@ -27,7 +27,7 @@ This list collects useful ontologies, vocabularies, terminologies, and taxonomie
 - [GeoSPARQL](http://www.opengis.net/ont/geosparql#) - the richest and most common spatial ontologies, plus an optional SPARQL extension (hence the name) that supports spatial reasoning over geodata that are annotated with its ontology. Supported by various triples stores, such as TriplyDB (Druid)
 triple stores
 - [IDS](https://doi.org/10.51964/hlcs9290) - The Intermediate Data Structure (IDS) is a standard data format that has been adopted by several large longitudinal databases on historical populations.
-- INTRO: the Intertextual, Interpictorial, and Intermedial Relations Ontology [INTRO](https://github.com/BOberreither/INTRO) - INTRO is an Intertextual Relationships Ontology for literary studies
+- [INTRO](https://github.com/BOberreither/INTRO): the Intertextual, Interpictorial, and Intermedial Relations Ontology - INTRO is an Intertextual Relationships Ontology for literary studies
 - [PROV ontology](https://www.w3.org/TR/prov-o/) - set of classes, properties, and restrictions that can be used to represent and interchange provenance information
 - [NIE-INE ontologies](https://github.com/nie-ine/Ontologies/) - infrastructure developed to ensure long-term storage of data of scientific edition projects in the Humanities at the Swiss Universities of Basel, Bern, Zürich, and Geneva
 - [LIO](https://lov.linkeddata.es/dataset/lov/vocabs/lio) - A Lightweight Ontology for Describing Images
