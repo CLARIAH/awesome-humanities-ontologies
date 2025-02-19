@@ -28,10 +28,10 @@ This list collects useful ontologies, vocabularies, terminologies, and taxonomie
 - [Geonames](https://www.geonames.org/) - covers all countries and contains over eleven million placenames that are available for download free of charge
 - [GeoSPARQL](http://www.opengis.net/ont/geosparql#) - the richest and most common spatial ontologies, plus an optional SPARQL extension (hence the name) that supports spatial reasoning over geodata that are annotated with its ontology. Supported by various triples stores, such as TriplyDB (Druid)
 triple stores
-- [IDS](https://doi.org/10.51964/hlcs9290) - The Intermediate Data Structure (IDS) is a standard data format that has been adopted by several large longitudinal databases on historical populations.
-- [PROV ontology](https://www.w3.org/TR/prov-o/) - set of classes, properties, and restrictions that can be used to represent and interchange provenance information
-- [NIE-INE ontologies](https://github.com/nie-ine/Ontologies/) - infrastructure developed to ensure long-term storage of data of scientific edition projects in the Humanities at the Swiss Universities of Basel, Bern, Zürich, and Geneva
 - [LIO](https://lov.linkeddata.es/dataset/lov/vocabs/lio) - A Lightweight Ontology for Describing Images
+- [NIE-INE ontologies](https://github.com/nie-ine/Ontologies/) - infrastructure developed to ensure long-term storage of data of scientific edition projects in the Humanities at the Swiss Universities of Basel, Bern, Zürich, and Geneva
+- [Persons in Context](https://personsincontext.org) - The Persons in Context Ontology is a knowledge model for describing person observations and (derived from them) uniquely identified persons using schema.org and other existing vocabularies 
+- [PROV ontology](https://www.w3.org/TR/prov-o/) - set of classes, properties, and restrictions that can be used to represent and interchange provenance information
 - [OWL Time](https://www.w3.org/TR/owl-time/) - Time ontology in OWL
 - [Perio.do](https://perio.do/en/) - a gazetteer of period definitions for linking and visualizing data
 - [Simple Event Model (SEM)](https://semanticweb.cs.vu.nl/2009/11/sem/) - an ontology for modelling events
@@ -51,14 +51,19 @@ triple stores
 ## Cultural Heritage / History
 *Cultural heritage objects, museums, archaeology, etc.*
 
-- [Linked Art Data Model](https://linked.art/model/) - The Linked Art Data Model is a (CIDOC-CRM) application profile that can be used to describe cultural heritage resources, with a focus on artworks and museum-oriented activities. It defines common patterns and terms to ensure that the resulting data can be easily used and is based on real-world data and use cases.
 - [CRMArcheo Excavation Model](https://www.ics.forth.gr/isl/index_main.php?l=e&c=711) - an ontology and RDF Schema to encode metadata about the archaeological excavation process (CIDOC-CRM extensnion)
 - [Europeana Data Model (EDM)](https://pro.europeana.eu/resources/standardization-tools/edm-documentation) - proposal for structuring the data that Europeana will be ingesting, managing and publishing on museums, digital archives and digital libraries
 - [Getty AAT Art and Architecture Thesaurus](https://www.getty.edu/research/tools/vocabularies/aat/) - an evolving vocabulary, growing and changing on art and architecture
-- [JUSO](http://rdfs.co/juso/latest/html#term-doc/) - Juso Ontology is a Web vocabulary for describing geographical addresses and features
-- [PNV](https://www.lodewijkpetram.nl/vocab/pnv/doc/) - The Person Name Vocabulary (PNV) is an rdf vocabulary and data model for persons' names
-- [ROAR](https://leonvanwissen.nl/vocab/roar/docs/) - Ontology to describe person, location etc. observations in archival resources
+- [IDS](https://doi.org/10.51964/hlcs9290) - The Intermediate Data Structure (IDS) is a standard data format that has been adopted by several large longitudinal databases on historical populations.
 - [ICONCLASS](http://iconclass.org/help/lod) - a multilingual classification system for cultural content, the de facto global standard for subject classification
+- [JUSO](http://rdfs.co/juso/latest/html#term-doc/) - Juso Ontology is a Web vocabulary for describing geographical addresses and features
+- [Linked Art Data Model](https://linked.art/model/) - The Linked Art Data Model is a (CIDOC-CRM) application profile that can be used to describe cultural heritage resources, with a focus on artworks and museum-oriented activities. It defines common patterns and terms to ensure that the resulting data can be easily used and is based on real-world data and use cases.
+- [NAO](https://archief.nl/def/ontologie/) - The ontology of the Dutch National Archive
+https://archief.nl/def/ontologie/
+- [ODRL](https://www.w3.org/ns/odrl/2/) - The Open Digital Rights Language
+- [PNV](https://www.lodewijkpetram.nl/vocab/pnv/doc/) - The Person Name Vocabulary (PNV) is an rdf vocabulary and data model for persons' names
+- [RiC-O](https://www.ica.org/standards/RiC/ontology) - RiC-O (Records in Contexts-Ontology) is an OWL ontology for describing archival record resources
+- [ROAR](https://leonvanwissen.nl/vocab/roar/docs/) - Ontology to describe person, location etc. observations in archival resources
 
 ## Periodicals
 *Newspapers, magazines, etc.*
