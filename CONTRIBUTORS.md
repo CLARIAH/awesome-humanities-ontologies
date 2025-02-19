@@ -6,3 +6,4 @@
 - Jacco van Ossenbruggen, CWI & VU Amsterdam
 - Paul Sheridan, University of Prince Edward Island (effective May 2022), CA
 - Laura Untner, Freie Universität Berlin, DE
+- Bram Buitendijk, KNAW-Humanities Cluster, NL
