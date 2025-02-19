@@ -20,7 +20,7 @@ This list collects useful ontologies, vocabularies, terminologies, and taxonomie
 
 - [CIDOC Conceptual Reference Model (CRM)](http://www.cidoc-crm.org/) - provides definitions and a formal structure for describing the implicit and explicit concepts and relationships used in cultural heritage documentation
 - [CRMinf Argumentation Model](http://www.cidoc-crm.org/crminf/ModelVersion/version-0.7) - an Extension of CIDOC-CRM to support argumentation
-- [ELLST](http://https://thesauri.cessda.eu/elsst-3/en/) - The European Language Social Science Thesaurus (ELSST) is a broad-based, multilingual thesaurus for the social sciences. The thesaurus consists of over 3,000 concepts and covers the core social science disciplines: politics, sociology, economics, education, law, crime, demography, health, employment, information and communication technology and, increasingly, environmental science.
+- [ELLST](https://thesauri.cessda.eu/) - The European Language Social Science Thesaurus (ELSST) is a broad-based, multilingual thesaurus for the social sciences. The thesaurus consists of over 3,000 concepts and covers the core social science disciplines: politics, sociology, economics, education, law, crime, demography, health, employment, information and communication technology and, increasingly, environmental science.
 - [FOAF vocabulary](http://xmlns.com/foaf/spec/) - linking people and information
 - [Functional Requirements for Bibliographic Record (FRBR)](http://www.sparontologies.net/ontologies/frbr) - for describing documents and their evolution
 - [Geonames](https://www.geonames.org/) - covers all countries and contains over eleven million placenames that are available for download free of charge
